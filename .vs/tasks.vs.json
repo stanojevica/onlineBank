@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-DataAccess",
+      "appliesTo": "DataAccess/",
+      "type": "launch"
+    }
+  ]
+}
